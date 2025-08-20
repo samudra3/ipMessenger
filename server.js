@@ -1,7 +1,7 @@
 const http= require('http');
 
 //data for the receiver
-const data= JSON.stringify({message:"how have you been"});
+const data= JSON.stringify({message:"how are you"});
 
 //creating the option for the request
 const options={
